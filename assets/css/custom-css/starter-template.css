@@ -1,0 +1,23 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.navbar-custom {
+  padding-top: 15px;
+  padding-bottom: 10px;
+  line-height: 20px;
+  color: yellow;
+}
+
+textarea {
+    width: 400px;
+    height: 200px;
+}
+
+td {
+  text-align: left;
+}
